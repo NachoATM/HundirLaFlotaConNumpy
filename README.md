@@ -1,6 +1,6 @@
 # Hundir La Flota Con Numpy
 
-![1001399a](https://user-images.githubusercontent.com/98879159/164445110-5de58eab-fd77-4b80-82da-a592d488c501.jpg)
+![Agua-tocado-o-hundido-974x1024](https://user-images.githubusercontent.com/98879159/164447526-1a4eec98-9688-4bf8-bd3f-b3eae8a22417.jpg)
 
 ## ¿Qué es?
 
